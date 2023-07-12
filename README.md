@@ -7,7 +7,7 @@ int main()
 printf("恭喜发财！！！\n");
 return 0;
 }   
-
+```
 $x^2+y^2=2$
 
 $$
